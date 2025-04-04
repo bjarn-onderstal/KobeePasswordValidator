@@ -1,30 +1,24 @@
-## KobeonPasswordValidator
+## PasswordValidator
 
-[A widget to check if a password meets the requirements.]
+A widget to check if a password meets the requirements.
 
 ## Features
 
-[feature highlights]
+-   Check password if it meets the specificied requirements
+-   Option to get the validation in English or Dutch
 
 ## Usage
 
-[step by step instructions]
+1. Install widget from marketplace to your project
+2. Add the widget to the page
+3. Select the password attribute
+4. If needed, select the is Valid boolean
+5. Select the requirements which should be checked for the password
 
 ## Demo project
 
-[link to sandbox]
+https://passwordvalidator-sandbox.mxapps.io/index.html?profile=Responsive
 
 ## Issues, suggestions and feature requests
 
-[link to GitHub issues]
-
-## Development and contribution
-
-1. Install NPM package dependencies by using: `npm install`. If you use NPM v7.x.x, which can be checked by executing
-   `npm -v`, execute: `npm install --legacy-peer-deps`.
-1. Run `npm start` to watch for code changes. On every change:
-    - the widget will be bundled;
-    - the bundle will be included in a `dist` folder in the root directory of the project;
-    - the bundle will be included in the `deployment` and `widgets` folder of the Mendix test project.
-
-[specify contribution]
+https://github.com/bjarn-onderstal/password-validator
